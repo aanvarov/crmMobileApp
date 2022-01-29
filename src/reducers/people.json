@@ -1,0 +1,28 @@
+[{
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "555-555-5555",
+    "company": "ABC Company",
+    "project": "ABC Project",
+    "notes": "ABC Notes"
+  },
+  {
+    "id": "2",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "phone": "555-555-3333",
+    "company": "ABC Company",
+    "project": "ABC Project",
+    "notes": "ABC Notes"
+  },
+  {
+    "id": "3",
+    "firstName": "Mike",
+    "lastName": "Smith",
+    "phone": "555-555-2222",
+    "company": "XYZ Company",
+    "project": "XYZ Project",
+    "notes": "XYZ Notes"
+  }
+]
